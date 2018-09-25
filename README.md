@@ -83,7 +83,7 @@ Exercise 11:
 4.	Leave only unique values in container and print them.
 5.	Rotate them around middle element and print result.
 
-Execrice 12.A (in groups):
+Execrice 12.A (in groups): Done as separate projects.
 Cryptographic application.
 Requirements:
 1.	Substitution ciphering (map letter -> cipher)
@@ -92,7 +92,7 @@ Requirements:
 4.	Input data: cin and/or file
 5.	Output data: cout and/or file
 
-Execrice 12.B (in groups):
+Execrice 12.B (in groups): In progress.
 Divisors Finder
 Requirements:
 1.	Generate N random values (int numbers from 0 to M)
